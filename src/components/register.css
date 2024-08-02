@@ -1,0 +1,22 @@
+.form-control{
+    width: 34rem;
+}
+
+.card-body{
+    padding: 5rem;
+    /* margin-right: ; */
+}
+
+.row{
+    margin-top:70px;
+}
+
+.col-md-10{
+    margin-right: 0rem;
+    margin-top: -7rem;
+}
+.error-message {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
